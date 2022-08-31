@@ -1,4 +1,4 @@
-# Triphenylarsine.exe
-C++ GDI Shader Trojan malware (noskid). The Creator is not responsible for any damages
-<br>
-This is (not) my last Malware
+# ₮Ɽł₱ⱧɆ₦ɎⱠ₳Ɽ₴ł₦Ɇ.ɆӾɆ
+₵++ ₲Đł ₴Ⱨ₳ĐɆⱤ ₮ⱤØJ₳₦ ₥₳Ⱡ₩₳ⱤɆ (₦Ø₴₭łĐ). ₮ⱧɆ ₵ⱤɆ₳₮ØⱤ ł₴ ₦Ø₮ ⱤɆ₴₱Ø₦₴ł฿ⱠɆ ₣ØⱤ ₳₦Ɏ Đ₳₥₳₲Ɇ₴
+<฿Ɽ>
+₮Ⱨł₴ ł₴ ₥Ɏ Ⱡ₳₴₮ ₥₳Ⱡ₩₳ⱤɆ
